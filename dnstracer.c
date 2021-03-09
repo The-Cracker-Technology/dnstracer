@@ -1469,7 +1469,7 @@ void
 usage(void)
 {
     fprintf(stderr,
-	"DNSTRACER version 1.8.1 - (c) Edwin Groothuis - http://www.mavetju.org\n"
+	"DNSTRACER version 1.9.1 - (c) Edwin Groothuis - http://www.mavetju.org\n"
 	"Usage: dnstracer [options] [host]\n"
 	"\t-c: disable local caching, default enabled\n"
 	"\t-C: enable negative caching, default disabled\n"
